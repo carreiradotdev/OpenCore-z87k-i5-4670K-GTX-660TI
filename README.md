@@ -35,5 +35,6 @@
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)
-- [BASE EFI - for 11th Intel Gen - Rocket Lake](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-11THGEN-ROCKET-LAKE)
-- tonymacx86.com - in special @etorix and @CaseySJ
+- [macOS Monterey Image](https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos-installer/)
+- [GeForce Kepler Graphics Patcher](https://github.com/chris1111/Geforce-Kepler-patcher)
+- [Haswell Base EFI folder](https://www.olarila.com/topic/5676-hackintosh-efi-folder-for-all-chipsets-clover-and-opencore-macos/)
